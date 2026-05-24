@@ -1,0 +1,4 @@
+k,covered,total,coverage,coverage_percent,scenarios
+1,10,10,1.0,100.0,3600
+2,42,42,1.0,100.0,3600
+3,96,96,1.0,100.0,3600

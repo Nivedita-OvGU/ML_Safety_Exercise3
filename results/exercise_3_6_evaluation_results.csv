@@ -1,0 +1,4 @@
+label,accuracy,precision,recall,f1_score
+has_pedestrian,0.8206,0.6389,0.1955,0.2993
+has_traffic_light,0.9422,0.9473,0.9737,0.9603
+has_vehicle,0.8756,0.9615,0.8689,0.9128
