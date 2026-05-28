@@ -1,4 +1,4 @@
-# Introduction ML Safety Exercise 3 and 4
+# Introduction ML Safety Exercises
 
 This repository contains the code and results for the Introduction to Machine Learning Safety exercises.
 
