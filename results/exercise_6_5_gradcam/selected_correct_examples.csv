@@ -1,0 +1,6 @@
+model_name,label_column,frame,true_label,prediction,probability,image_path
+pedestrian,has_pedestrian,1220,1,1,0.5617928504943848,/Users/niveditakowlagi/Documents/DKE/SoSe 2026/Intro to ML/ML_Safety_Exercise3/data/exercise_3_6/test/test/rgb-front/001220.jpg
+traffic_light,has_traffic_light,10,1,1,0.9998643398284912,/Users/niveditakowlagi/Documents/DKE/SoSe 2026/Intro to ML/ML_Safety_Exercise3/data/exercise_3_6/test/test/rgb-front/000010.jpg
+vehicle,has_vehicle,10,1,1,0.9906408190727234,/Users/niveditakowlagi/Documents/DKE/SoSe 2026/Intro to ML/ML_Safety_Exercise3/data/exercise_3_6/test/test/rgb-front/000010.jpg
+pedestrian,has_pedestrian,1230,1,1,0.9502313137054443,/Users/niveditakowlagi/Documents/DKE/SoSe 2026/Intro to ML/ML_Safety_Exercise3/data/exercise_3_6/test/test/rgb-front/001230.jpg
+pedestrian,has_pedestrian,1240,1,1,0.9678980708122253,/Users/niveditakowlagi/Documents/DKE/SoSe 2026/Intro to ML/ML_Safety_Exercise3/data/exercise_3_6/test/test/rgb-front/001240.jpg

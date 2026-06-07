@@ -2,7 +2,7 @@
 Your team is comparing two LLMs (Model A and Model B) for a customer-support chatbot. 
 1. Design a human pairwise evaluation study. Describe what annotators see, what they are asked to judge, and what aggregate metric you would compute.
 # Ans:
-what annotators see: the same customer-support prompt with two anonymous answers from Model A and Model B. The order of answers is randomized.
+what annotators see: the same customer-support prompt with two anonymous answers from Model A and Model B. The order of answers is randomized (without labeling them)
 what they are asked to judge: they are asked to judge which answer from Model A and Model B is better based on correctness, helpfulness, clarity, politeness, and whether it solved the customer problem.
 what aggregate matric I would compute: win rate or ELO if using a Chatbot Arena setup.
 
@@ -31,7 +31,7 @@ Reasons why Pass rate (correctness) is not enough because trajectory quality als
 
 2. List three evaluation dimensions beyond task success rate that you would include in a responsible deployment evaluation. 
 # Ans:
-    Efficiency: measures tokens used, API calls, wall time. A good efficient agent should sole tasks without creating this unnecessary steps.
+    Efficiency: measures tokens used, API calls, wall time. A good efficient agent should solve tasks without creating this unnecessary steps.
     Safety: checks that the agent doesn't perform any forbidden actions or create side effects. For eg: deleting important files, access private data, push unwanted code, etc.
     Robustness: checks whether the agent can recover from errors gracefullly.
 

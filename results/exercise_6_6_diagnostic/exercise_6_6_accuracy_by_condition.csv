@@ -1,0 +1,13 @@
+condition,model_name,label_column,n_images,n_positive_labels,n_predicted_positive,n_errors,accuracy,precision,recall,f1_score,accuracy_change_vs_normal
+normal,pedestrian,has_pedestrian,3600,706,0,706,0.8039,0.0,0.0,0.0,0.0
+normal,traffic_light,has_traffic_light,3600,2584,0,2584,0.2822,0.0,0.0,0.0,0.0
+normal,vehicle,has_vehicle,3600,2700,3475,871,0.7581,0.7632,0.9822,0.8589,0.0
+fog,pedestrian,has_pedestrian,3600,733,0,733,0.7964,0.0,0.0,0.0,-0.0075
+fog,traffic_light,has_traffic_light,3600,2626,0,2626,0.2706,0.0,0.0,0.0,-0.0116
+fog,vehicle,has_vehicle,3600,2785,3259,900,0.75,0.7892,0.9235,0.8511,-0.0081
+night,pedestrian,has_pedestrian,3600,732,0,732,0.7967,0.0,0.0,0.0,-0.0072
+night,traffic_light,has_traffic_light,3600,2627,0,2627,0.2703,0.0,0.0,0.0,-0.0119
+night,vehicle,has_vehicle,3600,2785,2390,1249,0.6531,0.8213,0.7048,0.7586,-0.105
+town_01,pedestrian,has_pedestrian,3600,325,0,325,0.9097,0.0,0.0,0.0,0.1058
+town_01,traffic_light,has_traffic_light,3600,2477,0,2477,0.3119,0.0,0.0,0.0,0.0297
+town_01,vehicle,has_vehicle,3600,2150,3244,1238,0.6561,0.6406,0.9665,0.7705,-0.102
