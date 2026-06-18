@@ -1,0 +1,10 @@
+model_name,epsilon,n_images,n_positive_labels,clean_recall,adversarial_recall,recall_drop
+pedestrian,0.01,3600,706,0.0,0.0,0.0
+pedestrian,0.05,3600,706,0.0,0.0,0.0
+pedestrian,0.1,3600,706,0.0,0.0,0.0
+traffic_light,0.01,3600,2584,0.0,0.0,0.0
+traffic_light,0.05,3600,2584,0.0,0.0,0.0
+traffic_light,0.1,3600,2584,0.0,0.0,0.0
+vehicle,0.01,3600,2700,0.9822,0.2085,0.7737
+vehicle,0.05,3600,2700,0.9822,0.247,0.7352
+vehicle,0.1,3600,2700,0.9822,0.4737,0.5085

@@ -1,0 +1,4 @@
+model_name,frame,true_label,clean_probability,clean_prediction,image_path,example_type
+pedestrian,0,0,0.052956655621528625,0,/Users/niveditakowlagi/Documents/DKE/SoSe 2026/Intro to ML/ML_Safety_Exercise3/data/exercise_8_4/test/test/segmentation-front/000000.png,any_correct
+traffic_light,0,0,0.0030643765348941088,0,/Users/niveditakowlagi/Documents/DKE/SoSe 2026/Intro to ML/ML_Safety_Exercise3/data/exercise_8_4/test/test/segmentation-front/000000.png,any_correct
+vehicle,10,1,0.9002131223678589,1,/Users/niveditakowlagi/Documents/DKE/SoSe 2026/Intro to ML/ML_Safety_Exercise3/data/exercise_8_4/test/test/segmentation-front/000010.png,correct_positive
