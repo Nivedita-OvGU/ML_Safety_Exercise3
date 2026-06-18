@@ -1,0 +1,13 @@
+condition,model_name,n_images,mean_confidence,std_confidence,mean_probability_present
+normal,pedestrian,3600,0.4573,0.0226,0.0427
+normal,traffic_light,3600,0.4756,0.0207,0.0244
+normal,vehicle,3600,0.3632,0.1217,0.8541
+fog,pedestrian,3600,0.4573,0.0223,0.0427
+fog,traffic_light,3600,0.479,0.0201,0.021
+fog,vehicle,3600,0.328,0.1363,0.8038
+night,pedestrian,3600,0.4616,0.018,0.0384
+night,traffic_light,3600,0.4808,0.0197,0.0192
+night,vehicle,3600,0.2576,0.147,0.6368
+town_01,pedestrian,3600,0.4709,0.0141,0.0291
+town_01,traffic_light,3600,0.4714,0.0204,0.0286
+town_01,vehicle,3600,0.3013,0.1335,0.7742
