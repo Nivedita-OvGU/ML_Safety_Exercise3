@@ -1,0 +1,4 @@
+model_name,best_temperature,accuracy_before,accuracy_after,mean_confidence_before,mean_confidence_after,ece_before,ece_after,ece_change
+pedestrian,2.8,0.8039,0.8039,0.9573,0.7591,0.1534,0.0457,-0.1077
+traffic_light,3.0,0.2822,0.2822,0.9756,0.7939,0.6934,0.5117,-0.1817
+vehicle,2.2,0.7581,0.7581,0.8632,0.7248,0.1168,0.0335,-0.0833

@@ -1,0 +1,4 @@
+model_name,n_images,accuracy,mean_confidence,ece
+pedestrian,3600,0.8039,0.9573,0.1534
+traffic_light,3600,0.2822,0.9756,0.6934
+vehicle,3600,0.7581,0.8632,0.1168
